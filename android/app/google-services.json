@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "337394996429",
+    "project_id": "rhcd-d76a2",
+    "storage_bucket": "rhcd-d76a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337394996429:android:d7307697ba666647384584",
+        "android_client_info": {
+          "package_name": "com.example.rhc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337394996429-2mgbdj4paqmu3tkmbvr95197sf5lfhq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDVB0iRGThx5OGu_gBfA3eKijMTvtYmFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337394996429-2mgbdj4paqmu3tkmbvr95197sf5lfhq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
